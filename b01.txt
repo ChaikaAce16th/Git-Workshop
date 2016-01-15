@@ -1,1 +1,13 @@
 this is branch b01
+/*
+        <script src = "./js/jquery-2.2.0.min.js"></script>
+        <script src = "./js/bootstrap.min.js"></script>
+        <script>
+        $(document).ready(function(){
+            var message = $ ("#leave-message").val();
+            $("#leave-message").val("");
+            $("#user-messages").append("<p>"+message+"</p>" );
+        });
+            });
+        </script>
+    */
